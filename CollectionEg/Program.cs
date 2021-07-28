@@ -6,6 +6,8 @@ namespace CollectionEg
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Good Morning!");
+
             Console.WriteLine("Hello!");
             Console.WriteLine("Good Morning!");
             Console.WriteLine("Hii!");
